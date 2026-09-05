@@ -1,0 +1,1 @@
+{"root":["./src/main.tsx","./src/router.tsx","./src/components/embers.tsx","./src/hooks/use-mobile.tsx","./src/hooks/use-reveal.ts","./src/lib/api.ts","./src/lib/plans.ts","./src/lib/utils.ts","./src/routes/checkout.tsx","./src/routes/index.tsx"],"version":"5.9.3"}
