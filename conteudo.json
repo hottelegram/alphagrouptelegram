@@ -1,20 +1,20 @@
 {
   "_comentario": "ESTE É O ARQUIVO DE TEXTOS E CONFIGURAÇÃO DA SUA PÁGINA. Você pode alterar qualquer texto aqui. Para destacar palavras em degradê (fogo/ouro), basta colocar entre asteriscos: *sua palavra aqui*.",
   "etapa1_intro": {
-    "badge_superior": "Curadoria Inteligente de Comunidades",
+    "badge_superior": "Todos os grupos de vazados na sua mão",
     "headline": "Descubra quais *grupos combinam* com você",
-    "subheadline": "Responda a um garimpo interativo de 30 segundos. Arraste para a direita ou esquerda e libere acesso exclusivo aos melhores acervos e comunidades do Telegram.",
+    "subheadline": "Escolha em 30 segundos tudo que você gosta. Arraste para a direita ou esquerda e libere acesso exclusivo aos melhores acervos e comunidades do Telegram.",
     "cards_destaque": [
       {
-        "titulo": "Curadoria 100% Verificada",
+        "titulo": "Grupo 100% Anônimo",
         "descricao": "Links testados todos os dias sem risco de canais caídos"
       },
       {
-        "titulo": "Simulador de Chat Real",
+        "titulo": "Chat com pessoas REAIS",
         "descricao": "Veja prévias humanizadas de conversas e mídias antes de entrar"
       },
       {
-        "titulo": "Acesso Seguro e Imediato",
+        "titulo": "Grupos Seguros e Imediato",
         "descricao": "Ativação instantânea via Pix com chaves criptografadas"
       }
     ],
