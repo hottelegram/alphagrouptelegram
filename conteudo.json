@@ -1,72 +1,72 @@
 {
   "_comentario": "ESTE É O ARQUIVO DE TEXTOS E CONFIGURAÇÃO DA SUA PÁGINA. Você pode alterar qualquer texto aqui. Para destacar palavras em degradê (fogo/ouro), basta colocar entre asteriscos: *sua palavra aqui*.",
   "etapa1_intro": {
-    "badge_superior": "Todos os grupos de vazados na sua mão",
-    "headline": "Descubra quais *grupos combinam* com você",
-    "subheadline": "Escolha em 30 segundos tudo que você gosta. Arraste para a direita ou esquerda e libere acesso exclusivo aos melhores acervos e comunidades do Telegram.",
+    "badge_superior": "NOVINHAS, VAZADINHOS, INCESTO, PROHIBIDOS",
+    "headline": "TEMOS *DE TUDO* PARA VOCÊ",
+    "subheadline": "Escolha tudo que você quer. Arraste para a direita ou esquerda e libere acesso exclusivo aos melhores vídeos do Telegram.",
     "cards_destaque": [
       {
-        "titulo": "Grupo 100% Anônimo",
+        "titulo": "Grupos 100% Anônimos",
+        "descricao": "Privacidade total, sem riscos 100% anônimo"
+      },
+      {
+        "titulo": "Grupos Permanentes",
         "descricao": "Links testados todos os dias sem risco de canais caídos"
       },
       {
-        "titulo": "Chat com pessoas REAIS",
-        "descricao": "Veja prévias humanizadas de conversas e mídias antes de entrar"
-      },
-      {
-        "titulo": "Grupos Seguros e Imediato",
+        "titulo": "Acesso Seguro e Imediato",
         "descricao": "Ativação instantânea via Pix com chaves criptografadas"
       }
     ],
-    "botao_iniciar": "COMEÇAR O QUIZ AGORA",
+    "botao_iniciar": "ESCOLHER GRUPOS AGORA",
     "rodape_contador": "+54.000 membros já conectados às comunidades"
   },
   "etapa2_quiz": {
     "instrucao_topo": "Arraste para o lado ou use os botões abaixo",
-    "aviso_scroll_topo": "Conteúdo anterior bloqueado! Finalize o quiz para ter o acesso completo.",
+    "aviso_scroll_topo": "Conteúdo anterior bloqueado! Escolha mais grupos para ter o acesso completo.",
     "comunidades": [
       {
         "id": 1,
-        "nome": "Comunidade Alfa VIP",
-        "tag": "Curadoria Top 1",
-        "descricao": "Acervo diário com materiais selecionados, links garimpados e atualizações contínuas de alta exclusividade.",
-        "membros": "18.4K membros",
-        "online": "2.140 online",
+        "nome": "Novinhas Lisinhas 🔥",
+        "tag": "Novidade💎",
+        "descricao": "Vídeos todos os dias, links garimpados e atualizações contínuas de alta exclusividade.",
+        "membros": "7.4K membros",
+        "online": "340 online",
         "ultima_atualizacao": "Atualizado há 6 min",
         "estatisticas": "📷 4.820 fotos • 📹 1.940 vídeos • 📁 340 arquivos",
-        "mensagem_fixada": "📌 Regras atualizadas: os novos links garimpados foram liberados no índice fixado.",
+        "mensagem_fixada": "📌 32 LINKS MEGA rapaziada, só clicar aqui 👉 http://mega.io/******** 🔥🔥",
         "chat": [
           {
-            "remetente": "Admin Alfa",
+            "remetente": "Alfa",
             "cargo": "Administrador",
             "horario": "14:15",
-            "texto": "Boa tarde a todos os membros! Subimos mais 140 mídias e pastas selecionadas no servidor exclusivo.",
+            "texto": "eaeee rapaziada, vou pausar o bot que envia os vídeos por 1 horinha só, porque vou mandar 140 vídeos aqui manualmente",
             "tipo": "texto",
-            "reacoes": "🔥 542  👀 1.1K  ❤️ 412"
+            "reacoes": "🔥 12  👀 5  ❤️ 3"
           },
           {
-            "remetente": "Marcos V.",
+            "remetente": "Membro VIP",
             "cargo": "Membro VIP",
             "horario": "14:18",
-            "texto": "Cara, o acervo de ontem estava absurdo! Já baixei quase tudo pro meu drive.",
+            "texto": "manda bala chefe kkk nós quer é vídeo mesmo",
             "tipo": "texto",
-            "reacoes": "👍 89  🔥 124"
+            "reacoes": ""
           },
           {
-            "remetente": "Admin Alfa",
+            "remetente": "Alfa",
             "cargo": "Administrador",
             "horario": "14:20",
             "tipo": "midia_bloqueada",
-            "legenda": "Pacote Garimpado VIP #42 (1.8 GB)",
+            "legenda": "#117 vídeos (1.8 GB)",
             "reacoes": "🔒 Apenas membros ativos"
           },
           {
-            "remetente": "Gabriel S.",
-            "cargo": "Membro VIP",
+            "remetente": "Alfa",
+            "cargo": "Administrador",
             "horario": "14:22",
-            "texto": "Link do canal 4 tá 100% liso, sem delay. Excelente curadoria!",
+            "texto": "pera aí que ta carregando ainda, tem uns que é muito longo",
             "tipo": "texto",
-            "reacoes": "🚀 76"
+            "reacoes": ""
           }
         ]
       },
