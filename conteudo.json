@@ -37,7 +37,7 @@
         "mensagem_fixada": "📌 32 LINKS MEGA rapaziada, só clicar aqui 👉 http://mega.io/******** 🔥🔥",
         "chat": [
           {
-            "remetente": "Alfa",
+            "remetente": "Admin",
             "cargo": "Administrador",
             "horario": "14:15",
             "texto": "eaeee rapaziada, vou pausar o bot que envia os vídeos por 1 horinha só, porque vou mandar 140 vídeos aqui manualmente",
@@ -45,15 +45,15 @@
             "reacoes": "🔥 12  👀 5  ❤️ 3"
           },
           {
-            "remetente": "Membro VIP",
+            "remetente": "Ot****",
             "cargo": "Membro VIP",
             "horario": "14:18",
-            "texto": "manda bala chefe kkk nós quer é vídeo mesmo",
+            "texto": "manda ver chefe kkk nós quer é vídeo mesmo",
             "tipo": "texto",
             "reacoes": ""
           },
           {
-            "remetente": "Alfa",
+            "remetente": "Admin",
             "cargo": "Administrador",
             "horario": "14:20",
             "tipo": "midia_bloqueada",
@@ -61,13 +61,38 @@
             "reacoes": "🔒 Apenas membros ativos"
           },
           {
-            "remetente": "Alfa",
-            "cargo": "Administrador",
+            "remetente": "Al***",
+            "cargo": "Membro VIP",
             "horario": "14:22",
-            "texto": "pera aí que ta carregando ainda, tem uns que é muito longo",
+            "texto": "que bucetinha gostosa dessa do vídeo 13 🔥",
+            "tipo": "texto",
+            "reacoes": ""
+          },
+         {
+            "remetente": "Admin",
+            "cargo": "Administrador",
+            "horario": "14:23",
+            "texto": "pera aí que ta carregando ainda kk, tem uns que é muito longo",
+            "tipo": "texto",
+            "reacoes": ""
+          },
+           {
+            "remetente": "Jo*****",
+            "cargo": "Membro VIP",
+            "horario": "14:24",
+            "texto": "eu curto desse tipo aí adm, se puder mandar muito desse vai ser top",
+            "tipo": "texto",
+            "reacoes": ""
+          },
+         {
+            "remetente": "Admin",
+            "cargo": "Administrador",
+            "horario": "14:24",
+            "texto": "consigo sim mn, vou ativar o bot depois e ele mesmo vai enviar mais, pera aí",
             "tipo": "texto",
             "reacoes": ""
           }
+          
         ]
       },
       {
