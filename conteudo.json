@@ -1,17 +1,17 @@
 {
   "_comentario": "ESTE É O ARQUIVO DE TEXTOS E CONFIGURAÇÃO DA SUA PÁGINA. Você pode alterar qualquer texto aqui. Para destacar palavras em degradê (fogo/ouro), basta colocar entre asteriscos: *sua palavra aqui*.",
   "etapa1_intro": {
-    "badge_superior": "Curadoria Inteligente de Comunidades",
-    "headline": "Descubra quais *grupos combinam* com você",
-    "subheadline": "Responda a um garimpo interativo de 30 segundos. Arraste para a direita ou esquerda e libere acesso exclusivo aos melhores acervos e comunidades do Telegram.",
+    "badge_superior": "Os Melhores Vazadinhos do Telegram",
+    "headline": "Vazadinhos e Prohibidos do *Telegram*",
+    "subheadline": "Escolha quais grupos você mais gosta e tenha acesso exclusivo a Vazadinhos, Prohibidos e muito mais!",
     "cards_destaque": [
       {
-        "titulo": "Curadoria 100% Verificada",
+        "titulo": "Grupos 100% Anônimos",
         "descricao": "Links testados todos os dias sem risco de canais caídos"
       },
       {
-        "titulo": "Simulador de Chat Real",
-        "descricao": "Veja prévias humanizadas de conversas e mídias antes de entrar"
+        "titulo": "Chat Real Aberto",
+        "descricao": "Troque links, vídeos e fotos com outros caras"
       },
       {
         "titulo": "Acesso Seguro e Imediato",
@@ -27,47 +27,63 @@
     "comunidades": [
       {
         "id": 1,
-        "nome": "Comunidade Alfa VIP",
-        "tag": "Curadoria Top 1",
-        "descricao": "Acervo diário com materiais selecionados, links garimpados e atualizações contínuas de alta exclusividade.",
-        "membros": "18.4K membros",
-        "online": "2.140 online",
+        "nome": "VAZADOS NOVINHAS V1RGENS🔥",
+        "tag": "Top 1º Telegram",
+        "descricao": "Os melhores vazadinhos de novinhas v1rgens do Telegram, vídeos todos os dias 24h",
+        "membros": "12.4K membros",
+        "online": "740 online",
         "ultima_atualizacao": "Atualizado há 6 min",
-        "estatisticas": "📷 4.820 fotos • 📹 1.940 vídeos • 📁 340 arquivos",
-        "mensagem_fixada": "📌 Regras atualizadas: os novos links garimpados foram liberados no índice fixado.",
+        "estatisticas": "📷 4.820 fotos • 📹 1.940 vídeos • 🔗 340 links",
+        "mensagem_fixada": "📌 Rapaziada entrem no grupo secundário para não perder nada!!!",
         "chat": [
           {
-            "remetente": "Admin Alfa",
+            "remetente": "Admin N1",
             "cargo": "Administrador",
             "horario": "14:15",
-            "texto": "Boa tarde a todos os membros! Subimos mais 140 mídias e pastas selecionadas no servidor exclusivo.",
+            "texto": "Eaee rapaziada, vou pausar o bot que envia automaticamente por 1 horinha porque estamos adicionando mais 700 vídeos que pegamos da deepweb",
             "tipo": "texto",
-            "reacoes": "🔥 542  👀 1.1K  ❤️ 412"
+            "reacoes": "🔥 12  👀 5"
           },
           {
-            "remetente": "Marcos V.",
+            "remetente": "Anônimo",
             "cargo": "Membro VIP",
             "horario": "14:18",
-            "texto": "Cara, o acervo de ontem estava absurdo! Já baixei quase tudo pro meu drive.",
+            "texto": "Kk taporra logo 700 da deepweb? tem o que de bom neles?",
             "tipo": "texto",
-            "reacoes": "👍 89  🔥 124"
+            "reacoes": ""
           },
           {
-            "remetente": "Admin Alfa",
+            "remetente": "Admin N1",
             "cargo": "Administrador",
-            "horario": "14:20",
+            "horario": "14:22",
             "tipo": "midia_bloqueada",
-            "legenda": "Pacote Garimpado VIP #42 (1.8 GB)",
+            "legenda": "Arquivos de Vídeo #42 (1.8 GB)",
             "reacoes": "🔒 Apenas membros ativos"
           },
-          {
-            "remetente": "Gabriel S.",
-            "cargo": "Membro VIP",
-            "horario": "14:22",
-            "texto": "Link do canal 4 tá 100% liso, sem delay. Excelente curadoria!",
+                   {
+            "remetente": "Admin N1",
+            "cargo": "Administrador",
+            "horario": "14:23",
+            "texto": "kkk relaxa mano, é nesse nível aqui, só as ppk lisa do jeito que gostam",
             "tipo": "texto",
-            "reacoes": "🚀 76"
+            "reacoes": ""
+          },
+          {
+            "remetente": "Anônimo",
+            "cargo": "Membro VIP",
+            "horario": "14:25",
+            "texto": "slk delícia demaissss, vai demorar pra enviar tudo?",
+            "tipo": "texto",
+            "reacoes": ""
           }
+                             {
+            "remetente": "Admin N1",
+            "cargo": "Administrador",
+            "horario": "14:26",
+            "texto": "vai nada, depende da minha internet, mas em 1 horinha já carrega tudo",
+            "tipo": "texto",
+            "reacoes": ""
+          },
         ]
       },
       {
