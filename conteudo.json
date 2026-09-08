@@ -157,153 +157,217 @@
         ]
       },
       {
-        "id": 3,
-        "nome": "Império Privado",
-        "tag": "Alta Exclusividade",
-        "descricao": "Seleção especial com comunidades restritas, pastas na nuvem e links diretos sem intermediários.",
-        "membros": "24.6K membros",
-        "online": "3.410 online",
-        "ultima_atualizacao": "Atualizado há 12 min",
-        "estatisticas": "📷 6.430 fotos • 📹 2.780 vídeos • 📁 810 arquivos",
-        "mensagem_fixada": "📌 Novo servidor espelho configurado com proteção contra quedas.",
-        "chat": [
-          {
-            "remetente": "Diretoria Império",
-            "cargo": "Fundador",
-            "horario": "13:30",
-            "texto": "Liberamos as 3 pastas com o melhor garimpo da semana. Quem tiver o vitalício tem vaga garantida.",
-            "tipo": "texto",
-            "reacoes": "🔥 620  👑 430"
-          },
-          {
-            "remetente": "Rodrigo M.",
-            "cargo": "Membro Elite",
-            "horario": "13:34",
-            "texto": "Os canais são atualizados a toda hora, não tem comparação.",
-            "tipo": "texto",
-            "reacoes": "❤️ 210"
-          },
-          {
-            "remetente": "Diretoria Império",
-            "cargo": "Fundador",
-            "horario": "13:40",
-            "tipo": "midia_bloqueada",
-            "legenda": "Pasta de Arquivos Sem Limite #10",
-            "reacoes": "🔒 Acesso mediante convite"
-          }
-        ]
-      },
-      {
-        "id": 4,
-        "nome": "Rede Nexus Underground",
-        "tag": "Servidores Diretos",
-        "descricao": "Acesso a servidores dedicados e drives na nuvem com downloads de alta velocidade e mídias sem compressão.",
-        "membros": "9.3K membros",
-        "online": "890 online",
-        "ultima_atualizacao": "Atualizado há 18 min",
-        "estatisticas": "📷 2.890 fotos • 📹 1.150 vídeos • 📁 290 arquivos",
-        "mensagem_fixada": "📌 Servidores 1 e 2 sincronizados com backup permanente.",
-        "chat": [
-          {
-            "remetente": "Nexus Suporte",
-            "cargo": "Admin",
-            "horario": "12:00",
-            "texto": "Todos os servidores operando em capacidade máxima. Download sem limite de velocidade.",
-            "tipo": "texto",
-            "reacoes": "⚡ 380  🚀 290"
-          },
-          {
-            "remetente": "Lucas Mendes",
-            "cargo": "Membro",
-            "horario": "12:05",
-            "texto": "Consegui baixar a pasta de 15GB em menos de 10 minutos, sensacional!",
-            "tipo": "texto",
-            "reacoes": "👏 140  🔥 190"
-          },
-          {
-            "remetente": "Nexus Suporte",
-            "cargo": "Admin",
-            "horario": "12:10",
-            "tipo": "midia_bloqueada",
-            "legenda": "Compilado Nexus Drive #19",
-            "reacoes": "🔒 Acesso liberado após verificação"
-          }
-        ]
-      },
-      {
-        "id": 5,
-        "nome": "Comunidade Black Titan",
-        "tag": "Mais Recomendado",
-        "descricao": "O maior ecossistema com dezenas de grupos integrados, debates exclusivos e materiais em tempo real.",
-        "membros": "31.2K membros",
-        "online": "4.820 online",
-        "ultima_atualizacao": "Atualizado há 7 min",
-        "estatisticas": "📷 8.420 fotos • 📹 3.910 vídeos • 📁 940 arquivos",
-        "mensagem_fixada": "📌 15 novos grupos sincronizados na central Titan.",
-        "chat": [
-          {
-            "remetente": "Comandante Titan",
-            "cargo": "Admin Geral",
-            "horario": "16:40",
-            "texto": "Nova remessa de canais adicionada para os membros deste lote. Sigam as instruções da recepção.",
-            "tipo": "texto",
-            "reacoes": "🔥 890  👑 640"
-          },
-          {
-            "remetente": "André Luis",
-            "cargo": "Membro VIP",
-            "horario": "16:45",
-            "texto": "Melhor comunidade do ano sem dúvidas. Já passei pros amigos!",
-            "tipo": "texto",
-            "reacoes": "💎 320"
-          },
-          {
-            "remetente": "Comandante Titan",
-            "cargo": "Admin Geral",
-            "horario": "16:50",
-            "tipo": "midia_bloqueada",
-            "legenda": "Dossiê Titan - Arquivos Raros #8",
-            "reacoes": "🔒 Acesso Restrito"
-          }
-        ]
-      },
-      {
-        "id": 6,
-        "nome": "Santuário Gold",
-        "tag": "Super Exclusivo",
-        "descricao": "Ambiente reservado com curadoria premium de arquivos pesados, comunidades verificadas e suporte 24h.",
-        "membros": "15.7K membros",
-        "online": "1.650 online",
-        "ultima_atualizacao": "Atualizado há 4 min",
-        "estatisticas": "📷 5.120 fotos • 📹 2.340 vídeos • 📁 420 arquivos",
-        "mensagem_fixada": "📌 Lote de vagas aberto por poucas horas para manter a integridade dos grupos.",
-        "chat": [
-          {
-            "remetente": "Imperium Moderador",
-            "cargo": "Moderador Chefe",
-            "horario": "11:20",
-            "texto": "Vagas abertas com moderação estrita. Mídias selecionadas por ordem cronológica.",
-            "tipo": "texto",
-            "reacoes": "🔥 410  ⭐ 320"
-          },
-          {
-            "remetente": "Rodrigo_PR",
-            "cargo": "Membro",
-            "horario": "11:26",
-            "texto": "Estava procurando por essa curadoria há meses. Valeu cada centavo.",
-            "tipo": "texto",
-            "reacoes": "❤️ 180  🔥 240"
-          },
-          {
-            "remetente": "Imperium Moderador",
-            "cargo": "Moderador Chefe",
-            "horario": "11:30",
-            "tipo": "midia_bloqueada",
-            "legenda": "Acervo Histórico Imperium #09",
-            "reacoes": "🔒 Protegido com criptografia"
-          }
-        ]
-      }
+      "id": 3,
+      "nome": "Incesto Proibido 🔞",
+      "tag": "Sem Censura",
+      "descricao": "Família não se nega, aqui tem vídeos reais e relatos de quem já passou por isso. Conteúdo pesado e sem filtro.",
+      "membros": "18.2K membros",
+      "online": "1.240 online",
+      "ultima_atualizacao": "Atualizado há 3 min",
+      "estatisticas": "📷 3.820 fotos • 📹 2.190 vídeos • 📁 560 arquivos",
+      "mensagem_fixada": "📌 Quem quiser compartilhar histórias reais, manda no PV que eu reposto aqui — sem julgamentos.",
+      "chat": [
+        {
+          "remetente": "Admin",
+          "cargo": "Administrador",
+          "horario": "2 minutos atrás",
+          "texto": "vou soltar um vídeo pesado agora, quem curte mãe e filho vai babar",
+          "tipo": "texto",
+          "reacoes": "🔥 23  👀 9"
+        },
+        {
+          "remetente": "Pr****",
+          "cargo": "Membro VIP",
+          "horario": "2 minutos atrás",
+          "texto": "manda logo aí adm, tô esperando kk",
+          "tipo": "texto",
+          "reacoes": ""
+        },
+        {
+          "remetente": "Admin",
+          "cargo": "Administrador",
+          "horario": "1 minuto atrás",
+          "tipo": "midia_bloqueada",
+          "legenda": "🔥 Família Especial #37 (2.1 GB)",
+          "reacoes": "🔒 Apenas membros ativos"
+        },
+        {
+          "remetente": "An****",
+          "cargo": "Membro VIP",
+          "horario": "agora",
+          "texto": "caralho, isso é real? nunca vi coisa assim",
+          "tipo": "texto",
+          "reacoes": ""
+        },
+        {
+          "remetente": "Admin",
+          "cargo": "Administrador",
+          "horario": "agora",
+          "texto": "real demais, não é filme não, pode baixar e ver",
+          "tipo": "texto",
+          "reacoes": "🔥 5"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "nome": "Vazados Câmeras Hackeadas 🎥",
+      "tag": "Exclusivo",
+      "descricao": "Câmeras de segurança, webcams e gravações caseiras hackeadas. Flagras reais de pessoas sem saber que estão sendo filmadas.",
+      "membros": "9.8K membros",
+      "online": "870 online",
+      "ultima_atualizacao": "Atualizado há 1 min",
+      "estatisticas": "📷 6.120 fotos • 📹 4.340 vídeos • 📁 890 arquivos",
+      "mensagem_fixada": "📌 AVISO: Os vídeos são pesados, baixem com calma. Links atualizados diariamente.",
+      "chat": [
+        {
+          "remetente": "HackAdmin",
+          "cargo": "Administrador",
+          "horario": "5 minutos atrás",
+          "texto": "subindo 3 pastas novas de câmeras de banheiro de shopping, material raro",
+          "tipo": "texto",
+          "reacoes": "🔥 34  👀 12"
+        },
+        {
+          "remetente": "Lo****",
+          "cargo": "Membro VIP",
+          "horario": "4 minutos atrás",
+          "texto": "boaaaa, tava esperando isso já",
+          "tipo": "texto",
+          "reacoes": "❤️ 3"
+        },
+        {
+          "remetente": "HackAdmin",
+          "cargo": "Administrador",
+          "horario": "3 minutos atrás",
+          "tipo": "midia_bloqueada",
+          "legenda": "🔴 Câmeras Banheiro #12 (4.6 GB)",
+          "reacoes": "🔒 Link ativo apenas para membros"
+        },
+        {
+          "remetente": "Anônimo",
+          "cargo": "Membro",
+          "horario": "2 minutos atrás",
+          "texto": "os vídeos são em 4k?",
+          "tipo": "texto",
+          "reacoes": ""
+        },
+        {
+          "remetente": "HackAdmin",
+          "cargo": "Administrador",
+          "horario": "1 minuto atrás",
+          "texto": "a maioria sim, as câmeras são de segurança então é qualidade boa",
+          "tipo": "texto",
+          "reacoes": ""
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "nome": "OnlyFans Vazados 😈",
+      "tag": "Novidade",
+      "descricao": "Packs e vídeos vazados de onlyfans de famosas, bloggers e gostosas que você não acha em lugar nenhum.",
+      "membros": "27.3K membros",
+      "online": "2.900 online",
+      "ultima_atualizacao": "Atualizado há 7 min",
+      "estatisticas": "📷 15.420 fotos • 📹 8.210 vídeos • 📁 3.120 arquivos",
+      "mensagem_fixada": "📌 Pasta atualizada com +200 vídeos da Bella, Ana e Sophia — só abrir os links.",
+      "chat": [
+        {
+          "remetente": "OF_Admin",
+          "cargo": "Moderador",
+          "horario": "10 minutos atrás",
+          "texto": "pessoal, acabou de chegar o pack novo da Japa que vazou, 140 vídeos",
+          "tipo": "texto",
+          "reacoes": "🔥 67  👀 23"
+        },
+        {
+          "remetente": "Ma****",
+          "cargo": "Membro VIP",
+          "horario": "9 minutos atrás",
+          "texto": "Japa? qual Japa?",
+          "tipo": "texto",
+          "reacoes": ""
+        },
+        {
+          "remetente": "OF_Admin",
+          "cargo": "Moderador",
+          "horario": "8 minutos atrás",
+          "texto": "a que tem onlyfans há 2 meses, tava cobrando 30 dólares pra ver coisa que já vazou",
+          "tipo": "texto",
+          "reacoes": "😂 12"
+        },
+        {
+          "remetente": "OF_Admin",
+          "cargo": "Moderador",
+          "horario": "5 minutos atrás",
+          "tipo": "midia_bloqueada",
+          "legenda": "🔥 Pack Japa OnlyFans #24 (3.8 GB)",
+          "reacoes": "🔒 Acesso mediante liberação"
+        },
+        {
+          "remetente": "Anônimo",
+          "cargo": "Membro",
+          "horario": "4 minutos atrás",
+          "texto": "boa demais, salvou geral kk",
+          "tipo": "texto",
+          "reacoes": "🔥 8"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "nome": "OnlyFans Vazados 😈",
+      "tag": "Novidade",
+      "descricao": "Packs e vídeos vazados de onlyfans de famosas, bloggers e gostosas que você não acha em lugar nenhum.",
+      "membros": "27.3K membros",
+      "online": "2.900 online",
+      "ultima_atualizacao": "Atualizado há 7 min",
+      "estatisticas": "📷 15.420 fotos • 📹 8.210 vídeos • 📁 3.120 arquivos",
+      "mensagem_fixada": "📌 Pasta atualizada com +200 vídeos da Bella, Ana e Sophia — só abrir os links.",
+      "chat": [
+        {
+          "remetente": "OF_Admin",
+          "cargo": "Moderador",
+          "horario": "10 minutos atrás",
+          "texto": "pessoal, acabou de chegar o pack novo da Japa que vazou, 140 vídeos",
+          "tipo": "texto",
+          "reacoes": "🔥 67  👀 23"
+        },
+        {
+          "remetente": "Ma****",
+          "cargo": "Membro VIP",
+          "horario": "9 minutos atrás",
+          "texto": "Japa? qual Japa?",
+          "tipo": "texto",
+          "reacoes": ""
+        },
+        {
+          "remetente": "OF_Admin",
+          "cargo": "Moderador",
+          "horario": "8 minutos atrás",
+          "texto": "a que tem onlyfans há 2 meses, tava cobrando 30 dólares pra ver coisa que já vazou",
+          "tipo": "texto",
+          "reacoes": "😂 12"
+        },
+        {
+          "remetente": "OF_Admin",
+          "cargo": "Moderador",
+          "horario": "5 minutos atrás",
+          "tipo": "midia_bloqueada",
+          "legenda": "🔥 Pack Japa OnlyFans #24 (3.8 GB)",
+          "reacoes": "🔒 Acesso mediante liberação"
+        },
+        {
+          "remetente": "Anônimo",
+          "cargo": "Membro",
+          "horario": "4 minutos atrás",
+          "texto": "boa demais, salvou geral kk",
+          "tipo": "texto",
+          "reacoes": "🔥 8"
+        }
+      ]
+    }
     ]
   },
   "etapa3_garimpo": {
