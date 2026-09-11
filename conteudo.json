@@ -554,97 +554,101 @@
     ]
   },
   "etapa3_garimpo": {
-    "titulo": "Processando seu *perfil exclusivo*",
-    "subtitulo": "Nossa IA está analisando se você é confiável ...",
+    "titulo": "Verificação de *Segurança*",
+    "subtitulo": "Analisando se você é confiável ...",
     "mensagens_progresso": [
-      "Analisando suas preferências...",
-      "Cruzando compatibilidade com mais de 120 grupos...",
-      "Filtrando acervos com links 100% ativos hoje...",
+      "Analisando suas escolhas...",
+      "Criando Link Novo dos Grupos...",
+      "Criando Ambiente Seguro...",
       "Análise finalizada! Você tem autorização..."
     ]
   },
   "etapa4_pos_analise": {
     "badge": "Resultado da Análise",
-    "titulo": "SEU ACESSO FOI *AUTORIZADO COM SUCESSO*",
-    "subtitulo": "Com base nas suas escolhas, separamos as melhores comunidades ativas para você entrar agora.",
-    "alerta_escassez": "Vagas deste lote garantidas pelos próximos:",
-    "titulo_selecao_planos": "Escolha o seu *plano de acesso*",
-    "subtitulo_selecao_planos": "Selecione o melhor plano para liberar o seu pacote de links:",
+    "titulo": "Seus Links foram Gerados *COM SUCESSO*",
+    "subtitulo": "Todos os grupos estão ATIVOS",
+    "alerta_escassez": "Todos os links vão expirar em:",
+    "titulo_selecao_planos": "Escolha qual *você prefere*",
+    "subtitulo_selecao_planos": "Selecione o melhor plano para liberar todos os Links:",
     "planos": [
       {
         "id": "iniciante",
-        "nome": "1 Semana",
+        "nome": "1 Semana VIP",
         "preco": "R$ 14,90",
         "periodo": "/semanal",
         "badge": null,
         "destaque": false,
         "beneficios": [
-          "Acesso aos grupos selecionados",
-          "Atualizações diárias garantidas",
-          "Suporte para entrada nos canais"
+          "Acesso a TODOS os grupos",
+          "Desconto de 50% ao renovar",
+          "Ótimo para Experimentar",
         ]
       },
       {
         "id": "chamas",
-        "nome": "1 Mês",
+        "nome": "1 Mês VIP",
         "preco": "R$ 19,90",
         "periodo": "/mês",
         "badge": "MAIS ESCOLHIDO",
         "destaque": true,
         "beneficios": [
           "Tudo do plano de 1 Semana",
-          "+ 3 canais extras de alta atividade",
-          "Acervo completo com pastas garimpadas",
-          "Suporte prioritário de moderadores 24/7"
+          "Grupos no Zangi, Signal, Whatsapp, Potato",
+          "Grupo Exclusivo de LINKS prohibidos",
+          "Suporte prioritário de moderadores 24/7",
+          "Pode escolher 1 Grupo para ser Vitalício",
+          "Garantia exclusiva de 7 dias💎"
         ]
       },
       {
         "id": "inferno",
-        "nome": "Vitalício",
+        "nome": "Vitalício VIP",
         "preco": "R$ 27,90",
-        "periodo": "/acesso total",
+        "periodo": "/para sempre",
         "badge": "MELHOR VALOR",
         "destaque": false,
         "beneficios": [
+          "Tudo dos outros planos",
           "Acesso a TODOS os grupos (vitalício)",
-          "Entrada em todos os novos canais futuros",
-          "Prioridade máxima em mídias raras",
-          "Garantia blindada incondicional de 7 dias"
+          "Entrada em todos os novos grupos futuros",
+          "Prioridade máxima em mídias REAIS",
+          "Garantia blindada incondicional de 30 dias"
         ]
       }
     ],
-    "botao_liberar_acesso": "LIBERAR ACESSO COMPLETO AGORA",
+    "botao_liberar_acesso": "ENTRAR NOS GRUPOS AGORA",
     "texto_seguranca": "Pagamento 100% seguro via Pix • Garantia incondicional de 7 dias"
   },
   "etapa5_checkout": {
-    "titulo_checkout": "PAGAR COM *PIX*",
+    "titulo_checkout": "PAGAR COM *PIX* 100% Anônimo",
     "subtitulo_plano": "Plano escolhido",
     "titulo_bonus": "Bônus que você vai GANHAR",
     "titulo_brindes_gold": "Comunidades Bônus (Brindes Liberados Hoje)",
     "badge_brindes_gold": "100% Grátis",
     "brindes": [
       {
-        "nome": "Rede Secreta Gold Access",
+        "nome": "PIX SEGURO ✔",
+        "tag": "🔐100% ANÔNIMO",
+        "membros": "Vamos esconder",
+        "atualizacao": "Suas Informações"
+      },
+      {
+        "nome": "GRUPO DE LINKS TELEGRAM🔗",
         "tag": "🎁 Brinde 01",
-        "membros": "14.8K membros",
+        "membros": "2.8K membros",
         "atualizacao": "Atualizado há 5 min"
       },
       {
-        "nome": "Acervo Bônus Diamante",
+        "nome": "NOVINHAS -12🔞",
         "tag": "🎁 Brinde 02",
         "membros": "21.3K membros",
         "atualizacao": "Atualizado há 11 min"
-      },
-      {
-        "nome": "Canais Garimpados Premium",
-        "tag": "🎁 Brinde 03",
-        "membros": "9.7K membros",
-        "atualizacao": "Atualizado hoje"
       }
+      
     ],
-    "botao_pagar_grupo": "PAGAR E RECEBER O LINK DO GRUPO",
+    "botao_pagar_grupo": "PAGAR E ENTRAR AGORA",
     "botao_gerando_pix": "GERANDO PIX EXCLUSIVO...",
-    "texto_seguranca_checkout": "Pagamento seguro via Pix",
+    "texto_seguranca_checkout": "Pagamento 100% Anônimo via Pix",
     "link_trocar_plano": "Trocar de plano"
   },
   "etapa6_upsell_taxa": {
